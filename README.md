@@ -1,12 +1,12 @@
 ### Hi!!
 
-My name is Bede Young, I'm a data scientist based in London!
+My name is Bede Young, I'm a data scientist based in London! 🎡 🇬🇧
 
-I am currently enrolled on General Assembly's data science immersive bootcamp and I'm enjoying exploring the areas of data science that appeal the most to me! I graduated from the University of Bath in 2022 studying biochemistry, but discovered the field of data science during my final year personal project. The application of programming and machine learning in the analysis of live cell images introduced me to the wide range of ways that data science can be used to produce positive change.
+I am currently enrolled on General Assembly's data science immersive bootcamp and I'm enjoying exploring the areas of data science that appeal the most to me! I graduated from the University of Bath 🛀 in 2022 studying Biochemistry 🔬, but discovered the field of data science during my final year personal project. The application of programming and machine learning in the analysis of live cell images introduced me to the wide range of ways that data science can be used to produce positive change. 🌟 🌟
 
-Visualising data in eye catching and interpretable ways has immediately taken my interests, and is something I have always aspired to improve at. I love to play video games, and particularly enjoy collecting my personal stats and data in order to test out theories.
+Visualising data in eye catching and interpretable ways has immediately taken my interests, and is something I have always aspired to improve at. I love to play video games 🎮, and particularly enjoy collecting my personal stats and data in order to test out theories. 📊
 
-I am always available on social media, or by the email in my bio!
+I am always available on social media, or by the email in my bio! 📫
 
 <!--
 **boay00/boay00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
